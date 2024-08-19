@@ -15,6 +15,8 @@ The Movie Recommendation System uses user rating data to provide recommendations
 
 ## Installation
 
+You can download the dataset here: https://files.grouplens.org/datasets/movielens/ml-25m.zip
+
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
